@@ -30,6 +30,7 @@ with open('Hist', 'rb') as fichier:
 #Liste pour gérer les travaux saisonniers.
 
 Saisons = ('Hiver2', 'Hiver3', 'Printemps1', 'Printemps2', 'Printemps3', 'Été1', 'Été2','Été3', 'Automne1', 'Automne2', 'Autonme3', 'Hiver1', 'NA')
+# Saison = JanvierFevrier, DébutMars, FinMars, AvrilMai, DébutJuin, FinJuin, JuilletAout, DébutSeptembre, FinSeptembre, OctobreNovembre, DébutDécembre, FinDécembre, NA
 SemisDebut = Saisons
 SemisFin = Saisons
 PlantationsDebut = Saisons
@@ -139,7 +140,7 @@ Plantes = {'Amaranthe' : (Familles[1], Racines[0], Récoltes[0][0], SemisDebut[0
 	'Piment' : (Familles[30], Racines[0], Récoltes[0][0], SemisDebut[0], SemisFin[0], PlantationsDebut[0], PlantationsFin[0]),
 	'Pissenlit' : (Familles[5], Racines[0], Récoltes[0][0], SemisDebut[0], SemisFin[0], PlantationsDebut[0], PlantationsFin[0]),
 	'Plantain corne de cerf' : (Familles[23], Racines[0], Récoltes[0][0], SemisDebut[0], SemisFin[0], PlantationsDebut[0], PlantationsFin[0]),
-	'Poireau' : (Familles[19], Racines[0], Récoltes[0][0], SemisDebut[0], SemisFin[0], PlantationsDebut[0], PlantationsFin[0]),
+	'Poireau' : (Familles[19], Racines[4], Récoltes[0][0], SemisDebut[2], SemisFin[7], PlantationsDebut[0], PlantationsFin[12]),
 	'Poire de terre' : (Familles[5], Racines[0], Récoltes[0][0], SemisDebut[0], SemisFin[0], PlantationsDebut[0], PlantationsFin[0]),
 	'Poire-melon' : (Familles[30], Racines[0], Récoltes[0][0], SemisDebut[0], SemisFin[0], PlantationsDebut[0], PlantationsFin[0]),
 	'Pois-asperge' : (Familles[15], Racines[4], Récoltes[0][1], SemisDebut[9], SemisFin[3], PlantationsDebut[12], PlantationsDebut[12]),    #
