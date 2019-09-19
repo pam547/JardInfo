@@ -8,8 +8,7 @@ Le script se voudrait utile dans ce premier temps pour les cultures potagères s
 Le dictionnaire Plantes = {} est à préciser parmi les listes Familles=[], Récoltes=[] , Racines=[], et des Dates[Semis][Plantation][Fin][Début]=[].
 
 Aux plaisirs
-
-
+https://www.debian-fr.org/t/et-le-jardin-petite-assistance-technique-pour-horticulteurs-amateurs-python3/80216
 
 
 
