@@ -1,3 +1,20 @@
+Première utilisation d'un gestionnaire de version aussi sophistiqué.
+
+Le script se voudrait utile dans ce premier temps pour les cultures potagères sur le 45ème parallèle de l'hémisphère nord.
+
+"Hist" est un fichier pickle pour l'historique des plantations.
+
+"script.py" est la moulinette d'assistance pour enregistrer et se faire conseiller sur les travaux à faire au jardin.
+Le dictionnaire Plantes = {} est à préciser parmi les listes Familles=[], Récoltes=[] , Racines=[], et des Dates[Semis][Plantation][Fin][Début]=[].
+
+Aux plaisirs
+
+
+
+
+
+
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
